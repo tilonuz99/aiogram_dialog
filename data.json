@@ -1,0 +1,222 @@
+{
+    "location": {},
+    "matches": [
+        {
+            "channel": "0",
+            "frequencyskew": -4.029274e-05,
+            "id": "586785377",
+            "offset": 191.2475,
+            "timeskew": 0.00023722649
+        }
+    ],
+    "tagid": "0D7E69F0-0541-48B2-8218-B481ACA8F156",
+    "timestamp": 1639181716988,
+    "timezone": "Europe/Moscow",
+    "track": {
+        "albumadamid": "1588383482",
+        "artists": [
+            {
+                "adamid": "1565031834",
+                "id": "212715708"
+            }
+        ],
+        "genres": {
+            "primary": "Pop"
+        },
+        "highlightsurls": {
+            "artisthighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/1565031834/highlights?affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios",
+            "relatedhighlightsurl": "https://cdn.shazam.com/video/v3/en/GB/iphone/212715708/artist-similarities-id-212715708/relatedhighlights?max_artists=5&affiliate=mttnagencyid%3Ds2n%26mttnsiteid%3D125115%26mttn3pid%3DApple-Shazam%26mttnsub1%3DShazam_ios%26mttnsub2%3D5348615A-616D-3235-3830-44754D6D5973%26itscg%3D30201%26app%3Dmusic%26itsct%3DShazam_ios"
+        },
+        "hub": {
+            "actions": [
+                {
+                    "id": "1588383847",
+                    "name": "apple",
+                    "type": "applemusicplay"
+                },
+                {
+                    "name": "apple",
+                    "type": "uri",
+                    "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a1/b9/31/a1b93152-2cf3-e94e-e4f4-ab4305c6fa95/mzaf_695069225211862572.plus.aac.ep.m4a"
+                }
+            ],
+            "displayname": "APPLE MUSIC",
+            "explicit": false,
+            "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+            "options": [
+                {
+                    "actions": [
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "applemusicopen",
+                            "uri": "https://music.apple.com/gb/album/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9-%D1%8F/1588383482?i=1588383847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        },
+                        {
+                            "name": "hub:applemusic:deeplink",
+                            "type": "uri",
+                            "uri": "https://music.apple.com/gb/album/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9-%D1%8F/1588383482?i=1588383847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "providername": "applemusic",
+                        "type": "open"
+                    },
+                    "caption": "OPEN IN",
+                    "colouroverflowimage": false,
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                    "listcaption": "Open in Apple Music",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                    "providername": "applemusic",
+                    "type": "open"
+                },
+                {
+                    "actions": [
+                        {
+                            "type": "uri",
+                            "uri": "https://itunes.apple.com/gb/album/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9-%D1%8F/1588383482?i=1588383847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                        }
+                    ],
+                    "beacondata": {
+                        "providername": "itunes",
+                        "type": "buy"
+                    },
+                    "caption": "BUY",
+                    "colouroverflowimage": false,
+                    "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "listcaption": "Buy on iTunes",
+                    "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                    "providername": "itunes",
+                    "type": "buy"
+                }
+            ],
+            "providers": [
+                {
+                    "actions": [
+                        {
+                            "name": "hub:spotify:searchdeeplink",
+                            "type": "uri",
+                            "uri": "spotify:search:%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D1%8F%20%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD%20%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9"
+                        }
+                    ],
+                    "caption": "Open in Spotify",
+                    "images": {
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png",
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png"
+                    },
+                    "type": "SPOTIFY"
+                },
+                {
+                    "actions": [
+                        {
+                            "name": "hub:deezer:searchdeeplink",
+                            "type": "uri",
+                            "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9+%D1%8F%27%20artist%3A%27S.O.U.L.++%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD+%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%27%7D"
+                        }
+                    ],
+                    "caption": "Open in Deezer",
+                    "images": {
+                        "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png",
+                        "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png"
+                    },
+                    "type": "DEEZER"
+                }
+            ],
+            "type": "APPLEMUSIC"
+        },
+        "images": {
+            "background": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/a4/7afda47f-11a5-a6aa-33ed-0fadf856c213/cover.jpg/400x400cc.jpg",
+            "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/a4/7afda47f-11a5-a6aa-33ed-0fadf856c213/cover.jpg/400x400cc.jpg",
+            "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/a4/7afda47f-11a5-a6aa-33ed-0fadf856c213/cover.jpg/400x400cc.jpg",
+            "joecolor": "b:000c07p:fff6f3s:eb5012t:cbc7c3q:bc4210"
+        },
+        "isrc": "FRX762144608",
+        "key": "586785377",
+        "layout": "5",
+        "myshazam": {
+            "apple": {
+                "actions": [
+                    {
+                        "name": "myshazam:apple",
+                        "type": "uri",
+                        "uri": "https://music.apple.com/gb/album/%D0%B4%D0%BE%D0%B1%D1%80%D1%8B%D0%B9-%D1%8F/1588383482?i=1588383847&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                ]
+            }
+        },
+        "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-586785377?startFrom=0&pageSize=20&connected=",
+        "sections": [
+            {
+                "metadata": [
+                    {
+                        "text": "\u0414\u043e\u0431\u0440\u044b\u0439 \u044f - Single",
+                        "title": "Album"
+                    },
+                    {
+                        "text": "Turan Media",
+                        "title": "Label"
+                    },
+                    {
+                        "text": "2021",
+                        "title": "Released"
+                    }
+                ],
+                "metapages": [
+                    {
+                        "caption": "\u0414\u043e\u0431\u0440\u044b\u0439 \u044f",
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/a4/7afda47f-11a5-a6aa-33ed-0fadf856c213/cover.jpg/400x400cc.jpg"
+                    }
+                ],
+                "tabname": "Song",
+                "type": "SONG"
+            },
+            {
+                "tabname": "Video",
+                "type": "VIDEO",
+                "youtubeurl": "https://cdn.shazam.com/video/v3/-/GB/iphone/586785377/youtube/video?q=S.O.U.L.+%26+%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD+%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9+%22%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9+%D1%8F%22"
+            },
+            {
+                "actions": [
+                    {
+                        "id": "212715708",
+                        "type": "artistposts"
+                    },
+                    {
+                        "id": "212715708",
+                        "type": "artist"
+                    }
+                ],
+                "id": "212715708",
+                "name": "\u0420\u0443\u0441\u043b\u0430\u043d \u0414\u043e\u0431\u0440\u044b\u0439",
+                "tabname": "Artist",
+                "toptracks": {
+                    "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/artisttoptracks_212715708?startFrom=0&pageSize=20&connected="
+                },
+                "type": "ARTIST",
+                "url": "https://cdn.shazam.com/digest/v1/en/GB/iphone/artist/212715708/recentpost",
+                "verified": false
+            },
+            {
+                "tabname": "Related",
+                "type": "RELATED",
+                "url": "https://cdn.shazam.com/shazam/v3/en/GB/iphone/-/tracks/track-similarities-id-586785377?startFrom=0&pageSize=20&connected="
+            }
+        ],
+        "share": {
+            "href": "https://www.shazam.com/track/586785377/-",
+            "html": "https://www.shazam.com/snippets/email-share/586785377?lang=en&country=GB",
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/7a/fd/a4/7afda47f-11a5-a6aa-33ed-0fadf856c213/cover.jpg/400x400cc.jpg",
+            "snapchat": "https://www.shazam.com/partner/sc/track/586785377",
+            "subject": "\u0414\u043e\u0431\u0440\u044b\u0439 \u044f - S.O.U.L. & \u0420\u0443\u0441\u043b\u0430\u043d \u0414\u043e\u0431\u0440\u044b\u0439",
+            "text": "I used Shazam to discover \u0414\u043e\u0431\u0440\u044b\u0439 \u044f by S.O.U.L. & \u0420\u0443\u0441\u043b\u0430\u043d \u0414\u043e\u0431\u0440\u044b\u0439.",
+            "twitter": "I used @Shazam to discover \u0414\u043e\u0431\u0440\u044b\u0439 \u044f by S.O.U.L. & \u0420\u0443\u0441\u043b\u0430\u043d \u0414\u043e\u0431\u0440\u044b\u0439."
+        },
+        "subtitle": "S.O.U.L. & \u0420\u0443\u0441\u043b\u0430\u043d \u0414\u043e\u0431\u0440\u044b\u0439",
+        "title": "\u0414\u043e\u0431\u0440\u044b\u0439 \u044f",
+        "type": "MUSIC",
+        "url": "https://www.shazam.com/track/586785377/-",
+        "urlparams": {
+            "{trackartist}": "S.O.U.L.+%26+%D0%A0%D1%83%D1%81%D0%BB%D0%B0%D0%BD+%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9",
+            "{tracktitle}": "%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9+%D1%8F"
+        }
+    }
+}
